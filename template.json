@@ -1,0 +1,11 @@
+{
+    "Actor": {
+        "types": ["PC"],
+            "PC": {
+                "health": {
+                    "value": 21,
+                    "max": 21
+                }
+            }
+    }
+}
